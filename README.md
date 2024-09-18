@@ -1,0 +1,2 @@
+# GPT_OMNI
+测试OMNI模型
